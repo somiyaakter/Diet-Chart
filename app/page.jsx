@@ -113,7 +113,9 @@ export default function BMICalculator() {
 
 	return (
 		<div className="max-w-6xl mx-auto p-6 bg-white shadow-md shadow-gray-400 rounded-md mt-5">
-			<h1 className="text-2xl font-bold text-center mb-4">BMI Calculator</h1>
+			<h1 className="text-2xl font-bold text-center mb-4">
+				Diet Chart Generator
+			</h1>
 			<div className="mb-4">
 				<label className="block text-gray-700 font-medium mb-2">
 					Weight (kg):
